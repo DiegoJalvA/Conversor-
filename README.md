@@ -20,7 +20,7 @@ Por ejemplo:
    ```bash
    git clone https://github.com/tuusuario/dolar-euro-converter.git
 
-🌟 Características
+## 🌟 Características
      Tasa de cambio predefinida: 1 EUR = 1.0507 USD.
      Interfaz sencilla en la terminal.
      Código fácil de entender y personalizar.
